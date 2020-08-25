@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.againbeautylamdep.site	TRUE	/POST	FALSE	1999999999	LADI_PAGE_VIEW	3
+www.againbeautylamdep.site	TRUE	/lam	FALSE	1999999999	LADI_FORM_SUBMIT	0
+www.againbeautylamdep.site	TRUE	/lam	FALSE	1999999999	LADI_PAGE_VIEW	2
+www.againbeautylamdep.site	TRUE	/	FALSE	1999999999	LADI_CLIENT_ID	83863fa5-b5f7-45ad-5a4f-0d5fb4d90167
+www.againbeautylamdep.site	TRUE	/	FALSE	1999999999	LADI_FORM_SUBMIT_PATH	0
+www.againbeautylamdep.site	TRUE	/	FALSE	1999999999	LADI_PAGE_VIEW_PATH	3
+
